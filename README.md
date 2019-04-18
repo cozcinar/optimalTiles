@@ -7,7 +7,7 @@ Owing to its interactive look around nature and very large resolution requiremen
 ### Downloads
 [Paper](https://v-sense.scss.tcd.ie/wp-content/uploads/2019/03/JETCAS_SI_immersive_2018_pc.pdf)
 
-[Tiling Schemes](https://github.com/cozcinar/omniAttention/blob/master/tilingSchemes.zip) with a python script (codes/visualizeStructure.py) to visualize tiling schemes
+[Tiling Schemes](https://github.com/cozcinar/optimalTiles/blob/master/tilingSchemes.zip) with a python script (codes/visualizeStructure.py) to visualize tiling schemes
 
 DataSet: Visual Attention (will be available soon)
 
